@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de2d8688.css",
+    "main.js": "/static/js/main.f405a956.js",
+    "static/media/Selfie.JPG": "/static/media/Selfie.216af810db3f1aaa209a.JPG",
+    "static/media/Withmom.jpeg": "/static/media/Withmom.000f64a29fbe2f0e3c9d.jpeg",
+    "index.html": "/index.html",
+    "main.de2d8688.css.map": "/static/css/main.de2d8688.css.map",
+    "main.f405a956.js.map": "/static/js/main.f405a956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2d8688.css",
+    "static/js/main.f405a956.js"
+  ]
+}
